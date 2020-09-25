@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600996328 source:d:\gitsantalucia\sockets\socket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
